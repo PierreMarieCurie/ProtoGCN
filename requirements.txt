@@ -13,3 +13,4 @@ pymemcache
 scipy
 torch>=1.5
 tqdm
+requests
